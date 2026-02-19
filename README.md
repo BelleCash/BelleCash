@@ -40,7 +40,7 @@ I am a **Full-Stack Developer** who builds at the intersection of technology, ed
 
 ### 📫 Connect with Me
 - **LinkedIn:** [www.linkedin.com/in/lovinandukwe]
-- **Portfolio:** [Available soon]
+- **Portfolio:** [https://www.behance.net/Inamatrix]
 - **Focus Areas:** #FullStack #EdTech #PublicHealth #Innovation
 
 *"Code is the most powerful tool we have for scaling empathy and education."*
